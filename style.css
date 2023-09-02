@@ -1,0 +1,26 @@
+body{
+    margin: 2px;
+    padding: 2px;
+}
+.bonu1{
+    size: 25px;
+}
+
+.hello{
+    z-index: 1;
+}
+.flex{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+size8{
+    margin: 25px;
+}
+
+.d-flex{
+    border-color:lightgreen;
+    margin: 52px;
+    border-style: outset;
+    border-radius: 11px;
+}
